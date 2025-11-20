@@ -52,13 +52,6 @@
 
 ---
 
-### 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-verma0426?theme=dark)](https://leetcode.com/harsh-verma0426/)
-
-
----
-
 ### :mailbox: Connect
 <p align="left">
   <a href="https://github.com/Harsh-verma0426" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
