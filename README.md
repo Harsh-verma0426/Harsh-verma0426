@@ -54,7 +54,8 @@
 
 ### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-verma0426?theme=dark&ext=heatmap)](https://leetcode.com/harsh-verma0426/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-verma0426?theme=dark)](https://leetcode.com/harsh-verma0426/)
+
 
 ---
 
