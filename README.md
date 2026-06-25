@@ -37,7 +37,6 @@
 
 ### :jigsaw: Projects (Work in Progress)
 - :brain: **ML-Algorithms-from-Scratch** → implementing regression and learning how they *actually* work  
-- :gear: **Automation & Analysis Scripts** → experimenting with small datasets and random ideas  
 
 ---
 
